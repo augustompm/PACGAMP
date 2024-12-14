@@ -34,17 +34,6 @@ Este projeto foi desenvolvido para a disciplina **Otimização Multiobjetiva 202
 **Visualização dos Resultados:**
     - Os gráficos de Pareto e visualizações geográficas serão salvos na pasta `results/` correspondente a cada instância.
 
-## 📈 Resultados
-
-Os resultados incluem:
-
-- **Curvas de Pareto:** Representam as fronteiras de Pareto para cada instância, destacando as soluções não dominadas.
-- **Visualizações Geográficas:** Mostram a distribuição espacial dos distritos definidos para cada instância.
-
-## 📝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias e sugestões.
-
 ## 📧 Contato
 
 - **Aluno:** Augusto Magalhães Pinto de Mendonça  
@@ -54,5 +43,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT.
 
